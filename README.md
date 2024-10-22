@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Loopstudios Landing Page](https://your-solution-url.com](https://www.frontendmentor.io/solutions/loopstudios-landing-page-using-html-css-and-javascript-qi_4Pvn0Fz))
 - Live Site URL: [Loopstudios Landing Page](https://ksnape34.github.io/Loopstudios-Landing-Page/)
 
 ## My process
